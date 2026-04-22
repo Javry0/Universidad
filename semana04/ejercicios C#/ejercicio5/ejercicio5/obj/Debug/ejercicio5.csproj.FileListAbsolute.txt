@@ -1,0 +1,7 @@
+D:\fundamentos de algoritmos\tarea\Universidad-master\Semana04\ejercicios C#\ejercicio5\ejercicio5\bin\Debug\ejercicio5.exe.config
+D:\fundamentos de algoritmos\tarea\Universidad-master\Semana04\ejercicios C#\ejercicio5\ejercicio5\bin\Debug\ejercicio5.exe
+D:\fundamentos de algoritmos\tarea\Universidad-master\Semana04\ejercicios C#\ejercicio5\ejercicio5\bin\Debug\ejercicio5.pdb
+D:\fundamentos de algoritmos\tarea\Universidad-master\Semana04\ejercicios C#\ejercicio5\ejercicio5\obj\Debug\ejercicio5.csproj.AssemblyReference.cache
+D:\fundamentos de algoritmos\tarea\Universidad-master\Semana04\ejercicios C#\ejercicio5\ejercicio5\obj\Debug\ejercicio5.csproj.CoreCompileInputs.cache
+D:\fundamentos de algoritmos\tarea\Universidad-master\Semana04\ejercicios C#\ejercicio5\ejercicio5\obj\Debug\ejercicio5.exe
+D:\fundamentos de algoritmos\tarea\Universidad-master\Semana04\ejercicios C#\ejercicio5\ejercicio5\obj\Debug\ejercicio5.pdb
