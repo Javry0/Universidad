@@ -1,0 +1,7 @@
+C:\Users\USER\Downloads\Nueva carpeta (5)\EJERCICIO1_GUIAJP\EJERCICIO1_GUIAJP\bin\Debug\EJERCICIO1_GUIAJP.exe.config
+C:\Users\USER\Downloads\Nueva carpeta (5)\EJERCICIO1_GUIAJP\EJERCICIO1_GUIAJP\bin\Debug\EJERCICIO1_GUIAJP.exe
+C:\Users\USER\Downloads\Nueva carpeta (5)\EJERCICIO1_GUIAJP\EJERCICIO1_GUIAJP\bin\Debug\EJERCICIO1_GUIAJP.pdb
+C:\Users\USER\Downloads\Nueva carpeta (5)\EJERCICIO1_GUIAJP\EJERCICIO1_GUIAJP\obj\Debug\EJERCICIO1_GUIAJP.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\Nueva carpeta (5)\EJERCICIO1_GUIAJP\EJERCICIO1_GUIAJP\obj\Debug\EJERCICIO1_GUIAJP.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Nueva carpeta (5)\EJERCICIO1_GUIAJP\EJERCICIO1_GUIAJP\obj\Debug\EJERCICIO1_GUIAJP.exe
+C:\Users\USER\Downloads\Nueva carpeta (5)\EJERCICIO1_GUIAJP\EJERCICIO1_GUIAJP\obj\Debug\EJERCICIO1_GUIAJP.pdb
