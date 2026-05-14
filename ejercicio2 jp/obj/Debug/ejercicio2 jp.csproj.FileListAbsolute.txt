@@ -1,7 +1,0 @@
-C:\Users\UPN\Desktop\clase\ejercicio2 jp\bin\Debug\ejercicio2 jp.exe.config
-C:\Users\UPN\Desktop\clase\ejercicio2 jp\bin\Debug\ejercicio2 jp.exe
-C:\Users\UPN\Desktop\clase\ejercicio2 jp\bin\Debug\ejercicio2 jp.pdb
-C:\Users\UPN\Desktop\clase\ejercicio2 jp\obj\Debug\ejercicio2 jp.csproj.AssemblyReference.cache
-C:\Users\UPN\Desktop\clase\ejercicio2 jp\obj\Debug\ejercicio2 jp.csproj.CoreCompileInputs.cache
-C:\Users\UPN\Desktop\clase\ejercicio2 jp\obj\Debug\ejercicio2 jp.exe
-C:\Users\UPN\Desktop\clase\ejercicio2 jp\obj\Debug\ejercicio2 jp.pdb
