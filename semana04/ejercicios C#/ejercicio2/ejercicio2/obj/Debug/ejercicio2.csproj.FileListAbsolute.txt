@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\semana 4\semana04\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe.config
+C:\Users\UPN\Desktop\semana 4\semana04\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe
+C:\Users\UPN\Desktop\semana 4\semana04\ejercicio2\ejercicio2\bin\Debug\ejercicio2.pdb
+C:\Users\UPN\Desktop\semana 4\semana04\ejercicio2\ejercicio2\obj\Debug\ejercicio2.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\semana 4\semana04\ejercicio2\ejercicio2\obj\Debug\ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\semana 4\semana04\ejercicio2\ejercicio2\obj\Debug\ejercicio2.exe
+C:\Users\UPN\Desktop\semana 4\semana04\ejercicio2\ejercicio2\obj\Debug\ejercicio2.pdb

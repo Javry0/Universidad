@@ -1,0 +1,14 @@
+C:\Users\UPN\Desktop\semana 4\semana04\semana04\bin\Debug\semana04.exe.config
+C:\Users\UPN\Desktop\semana 4\semana04\semana04\bin\Debug\semana04.exe
+C:\Users\UPN\Desktop\semana 4\semana04\semana04\bin\Debug\semana04.pdb
+C:\Users\UPN\Desktop\semana 4\semana04\semana04\obj\Debug\semana04.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\semana 4\semana04\semana04\obj\Debug\semana04.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\semana 4\semana04\semana04\obj\Debug\semana04.exe
+C:\Users\UPN\Desktop\semana 4\semana04\semana04\obj\Debug\semana04.pdb
+D:\fundamentos de algoritmos\tarea\Universidad-master\Semana04\ejercicios C#\ejercicio1\ejercicio1\bin\Debug\semana04.exe.config
+D:\fundamentos de algoritmos\tarea\Universidad-master\Semana04\ejercicios C#\ejercicio1\ejercicio1\bin\Debug\semana04.exe
+D:\fundamentos de algoritmos\tarea\Universidad-master\Semana04\ejercicios C#\ejercicio1\ejercicio1\bin\Debug\semana04.pdb
+D:\fundamentos de algoritmos\tarea\Universidad-master\Semana04\ejercicios C#\ejercicio1\ejercicio1\obj\Debug\semana04.csproj.AssemblyReference.cache
+D:\fundamentos de algoritmos\tarea\Universidad-master\Semana04\ejercicios C#\ejercicio1\ejercicio1\obj\Debug\semana04.csproj.CoreCompileInputs.cache
+D:\fundamentos de algoritmos\tarea\Universidad-master\Semana04\ejercicios C#\ejercicio1\ejercicio1\obj\Debug\semana04.exe
+D:\fundamentos de algoritmos\tarea\Universidad-master\Semana04\ejercicios C#\ejercicio1\ejercicio1\obj\Debug\semana04.pdb

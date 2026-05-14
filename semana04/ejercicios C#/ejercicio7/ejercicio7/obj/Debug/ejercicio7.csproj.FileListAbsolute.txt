@@ -1,0 +1,7 @@
+D:\fundamentos de algoritmos\tareas\semana04\semana04\ejercicios C#\ejercicio7\ejercicio7\bin\Debug\ejercicio7.exe.config
+D:\fundamentos de algoritmos\tareas\semana04\semana04\ejercicios C#\ejercicio7\ejercicio7\bin\Debug\ejercicio7.exe
+D:\fundamentos de algoritmos\tareas\semana04\semana04\ejercicios C#\ejercicio7\ejercicio7\bin\Debug\ejercicio7.pdb
+D:\fundamentos de algoritmos\tareas\semana04\semana04\ejercicios C#\ejercicio7\ejercicio7\obj\Debug\ejercicio7.csproj.AssemblyReference.cache
+D:\fundamentos de algoritmos\tareas\semana04\semana04\ejercicios C#\ejercicio7\ejercicio7\obj\Debug\ejercicio7.csproj.CoreCompileInputs.cache
+D:\fundamentos de algoritmos\tareas\semana04\semana04\ejercicios C#\ejercicio7\ejercicio7\obj\Debug\ejercicio7.exe
+D:\fundamentos de algoritmos\tareas\semana04\semana04\ejercicios C#\ejercicio7\ejercicio7\obj\Debug\ejercicio7.pdb
